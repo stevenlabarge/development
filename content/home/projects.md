@@ -27,7 +27,7 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#  
+#
 # [[filter]]
 #   name = "Deep Learning"
 #   tag = ".deep-learning"
@@ -38,3 +38,4 @@ filter_default = 0
 
 +++
 
+The projects I have been apart of are reallly something.  Really, some of the best projects let me tell you, just outstanding.
